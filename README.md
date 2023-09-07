@@ -1,4 +1,6 @@
-# Projeto-Pokemon
+# Pokémon Dataset
+# Objetivo das Visualizações
+O objetivo principal destas visualizações é fornecer uma visão geral das informações disponíveis no dataset Pokémon e ajudar os interessados a entender melhor os Pokémon, seus tipos e estatísticas. Além disso, essas visualizações podem ser úteis para jogadores que desejam tomar decisões estratégicas com base nas estatísticas dos Pokémon
 ## Análise Exploratória do Dataset Pokémon
 Neste repositório, você encontrará um conjunto de dados que contém informações sobre Pokémon. Realizei uma análise exploratória deste dataset para obter insights valiosos sobre os Pokémon, suas estatísticas e tipos. Abaixo, estão algumas das análises realizadas:
 
@@ -26,5 +28,3 @@ Neste repositório, você encontrará um conjunto de dados que contém informaç
 ## Visualização das Correlações entre Atributos
 - Foi criado um heatmap (Mapa de Calor) com informações sobre HP, Attack, Defense, Sp. Attack, Sp. Defense e Speed.
 - Através desse heatmap é possível identificar correlações entre esse atributos e tirar conclusões se são correlaçoes positivas, negativas, fortes, fracas ou moderadas.
-# Objetivo das Visualizações
-O objetivo principal destas visualizações é fornecer uma visão geral das informações disponíveis no dataset Pokémon e ajudar os interessados a entender melhor os Pokémon, seus tipos e estatísticas. Além disso, essas visualizações podem ser úteis para jogadores que desejam tomar decisões estratégicas com base nas estatísticas dos Pokémon
